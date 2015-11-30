@@ -14,7 +14,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
-        "openbizx/openbizx": "*",
+        "openbizx/openbizx": "*"
     },
     "config": {
         "process-timeout": 1800
